@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+plotly
+dash
+dash-bootstrap-components
+optuna
