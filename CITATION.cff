@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yperman"
+  given-names: "Tibe"
+- family-names: "Besbassi"
+  given-names: "Hajar"
+title: "yf17d-cd8-abm"
+abstract: "Agent-based model of CD8 T cell responses after (YF-17D) yellow fever vaccination"
+version: 1.0.0
+date-released: 2026-05-09
+url: "https://github.com/TibeYperman/yf17d-cd8-abm"
